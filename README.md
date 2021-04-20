@@ -27,3 +27,5 @@ Async Javascript (Callbacks, Promises, Async/Await): https://www.youtube.com/wat
 ## Inspelningar
 
 Förmiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Lektion%20-%20Tisdagar-20210420_091326-M%C3%B6tesinspelning.mp4?web=1
+
+Eftermiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Snabbm%C3%B6te-20210420_143911-M%C3%B6tesinspelning.mp4?web=1
