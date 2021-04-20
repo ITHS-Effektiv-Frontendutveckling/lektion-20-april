@@ -4,6 +4,8 @@
 
 Musikspelare - API: https://gist.github.com/zocom-christoffer-wallenberg/dc31a65b70fd05e0ee9459046ebac1a9
 
+API-övning med Express: https://gist.github.com/zocom-christoffer-wallenberg/e43de4fa7daf3e659067677d2d567612
+
 ## Artiklar
 
 Express dokumentation: http://expressjs.com/
