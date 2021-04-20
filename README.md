@@ -5,7 +5,6 @@
 Musikspelare - API: https://gist.github.com/zocom-christoffer-wallenberg/dc31a65b70fd05e0ee9459046ebac1a9
 
 ## Artiklar
-Ladda ner Insomnia: https://insomnia.rest/
 
 Express dokumentation: http://expressjs.com/
 
