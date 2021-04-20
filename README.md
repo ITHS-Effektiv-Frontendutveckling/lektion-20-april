@@ -8,6 +8,8 @@ API-övning med Express: https://gist.github.com/zocom-christoffer-wallenberg/e4
 
 ## Artiklar
 
+Ladda ner Insomnia: https://insomnia.rest/
+
 Express dokumentation: http://expressjs.com/
 
 Parametrar i GET/POST: https://www.digitalocean.com/community/tutorials/use-expressjs-to-get-url-and-post-parameters
